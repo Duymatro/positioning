@@ -1,0 +1,43 @@
+.box1{
+  width: 350px; 
+  height: 200px;
+  background: rgb(255,140,152);
+background: linear-gradient(270deg, rgba(255,140,152,1) 0%, rgba(254,145,170,1) 41%, rgba(255,188,153,1) 62%);
+  padding: 5px;
+  padding-right: 20px; 
+  border: solid 1px; 
+  float: left;
+  border-radius: 2%;
+  text-align: left;
+  color: white;
+}
+.box2{
+  width: 350px; 
+  height: 200px;
+  background: rgb(87,175,239);
+background: linear-gradient(270deg, rgba(87,175,239,1) 0%, rgba(21,145,229,1) 41%, rgba(139,201,246,1) 62%);
+  padding: 5px;
+  padding-right: 20px; 
+  border: solid 1px; 
+  float: left;
+  border-radius: 2%;
+  text-align: left;
+  color: white;
+}
+  
+.box3{
+  width: 350px; 
+  height: 200px;
+  background: rgb(46,211,194);
+background: linear-gradient(270deg, rgba(46,211,194,1) 0%, rgba(46,211,194,1) 41%, rgba(117,216,209,1) 62%);
+  padding: 5px;
+  padding-right: 20px; 
+  border: solid 1px; 
+  float: left;
+  border-radius: 2%;
+  text-align: left;
+  color: white;
+}
+img{
+  margin-left: 50% ;
+}
